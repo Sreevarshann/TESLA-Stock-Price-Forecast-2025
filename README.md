@@ -159,6 +159,4 @@ We welcome contributions! Feel free to:
 
 <div align="center">
   
-Made with ❤️ by Data Science Enthusiasts
-
 </div>
