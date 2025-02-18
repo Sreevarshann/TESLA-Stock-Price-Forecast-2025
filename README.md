@@ -141,7 +141,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 ## 🤝 **Contributing**
-We welcome contributions! Feel free to:
+I welcome contributions! Feel free to:
 - Fork the repository
 - Create feature branches
 - Submit pull requests
